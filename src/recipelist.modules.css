@@ -1,0 +1,24 @@
+.list-item{
+    border-radius: 2px;
+    background: white;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    min-width: 20%;
+    padding-top: 20px;
+  }
+
+  
+  .list-item-image{
+    width: 200px;
+    height:200px ;
+    border-radius: 1px;
+  }
+
+  
+.recipe-title1{
+    font-size: large;
+    color: #323132;
+  }
